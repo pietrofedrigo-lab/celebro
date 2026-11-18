@@ -8,3 +8,5 @@ me conta uma piada;Por que o computador foi ao médico? Porque estava com um ví
 o que e python;Python é uma linguagem de programação muito usada em Ciência de Dados e IA.
 como voce aprende;Eu aprendo salvando novas informações neste arquivo de texto!
 tchau;Até logo! Foi muito bom conversar com você.
+ensinar nova resposta - o amor é o melhor sentimento do mundo
+o amor é lindo - amor
